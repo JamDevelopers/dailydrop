@@ -1,5 +1,9 @@
 # TextileDrop SaaS — Plain PHP + MySQL Blueprint
 
+<img width="1359" height="639" alt="Untitddled" src="https://github.com/user-attachments/assets/50a68d82-bf0d-4057-a4c9-12ff92fe2cc9" />
+
+
+
 ## 1. Goal
 
 Build **TextileDrop**, a multi-tenant SaaS for Surat textile wholesalers, sellers, and resellers.
